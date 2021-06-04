@@ -1,12 +1,13 @@
 主要是在公司分享的技术PPT。
 
-flutter的介绍
-flutter编译原理探讨
+**flutter的介绍**
 
-react-native的介绍
+**flutter编译原理探讨**
 
-swift语言学习总结
+**react-native的介绍**
 
-AOP在移动开发中的应用
+**swift语言学习总结**
 
-HashMap、红黑树和B树
+**AOP在移动开发中的应用**
+
+**HashMap、红黑树和B树**：这个keynote里总结了HashMap的一些很有意思的特性。对于红黑树的讲解估计网络上其他地方很少见到。把红黑树的由来，5个特性有什么用，为什么这么定义，都有讲解。另外还有把红黑树的插入节点，删除节点都做了讲解。还有红黑树在JavaSDK中的实现。
