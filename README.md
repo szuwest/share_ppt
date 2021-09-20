@@ -1,4 +1,4 @@
-主要是在公司分享的技术PPT。
+主要是在公司分享的技术PPT。我会将部分PPT转成文章发布在这里 [blog地址](https://szuwest.github.io/)
 
 **flutter的介绍**
 
